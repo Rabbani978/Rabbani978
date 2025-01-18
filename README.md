@@ -21,7 +21,7 @@ Skills: Javascript/ BOOTSTRAP / REACT / Tailwind / HTML / CSS
 
 - 📫 How to reach me **rabbani600978@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:***
 
 <h3 align="left">Connect with me:</h3>
 
