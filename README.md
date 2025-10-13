@@ -7,13 +7,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rabbani978&color=red)
 
-Skills: Javascript/ BOOTSTRAP / REACT / Tailwind / HTML / CSS
+Skills: Javascript/ BOOTSTRAP / REACT / Tailwind / HTML / CSS / MS office
 
 </div>
 
-- 🔭 I’m currently learning Frontend Developer
+- 🔭 I’m a Frontend Developer
 
-- 🌱 I’m currently learning Javascript, BOOTSTRAP, REACT, Tailwind, HTML, CSS
+- 🌱 I’m expert with Javascript, BOOTSTRAP, REACT, Tailwind, HTML, CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rabbani978](https://github.com/Rabbani978)
 
@@ -93,7 +93,7 @@ Skills: Javascript/ BOOTSTRAP / REACT / Tailwind / HTML / CSS
 <a href="https://x.com/Rabbani700978" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/Rabbani978/" target="_blank">
+<a href="https://www.linkedin.com/in/md-golam-rabbani-5b1303263/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.facebook.com/md.golam.rabbani.77886" target="_blank">
