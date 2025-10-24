@@ -1,4 +1,4 @@
-![I am Rabbani978](https://github.com/Rabbani978/Rabbani978/blob/main/code.png)
+![I am Rabbani978](https://github.com/Rabbani978/Rabbani978/blob/main/rabbaniGit.png)
 
 <h1 align="center">Hi 👋, I'm MD. Golam Rabbani</h1>
 <h3 align="center">Programmer | Web Designer | Frontend Developerr</h3>
